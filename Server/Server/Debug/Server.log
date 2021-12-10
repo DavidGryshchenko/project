@@ -1,0 +1,3 @@
+﻿  Server.cpp
+C:\Users\zvaeu\Desktop\Server\Server\Server.cpp(38,48): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+  Server.vcxproj -> C:\Users\zvaeu\Desktop\Server\Debug\Server.exe
